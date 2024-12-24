@@ -1,0 +1,17 @@
+D:\HxH\HxH\HxH\obj\Release\HxH.csproj.AssemblyReference.cache
+D:\HxH\HxH\HxH\obj\Release\HxH.csproj.SuggestedBindingRedirects.cache
+D:\HxH\HxH\HxH\obj\Release\HxH.exe.config
+D:\HxH\HxH\HxH\obj\Release\HxH.AdminForm.resources
+D:\HxH\HxH\HxH\obj\Release\HxH.Booking.resources
+D:\HxH\HxH\HxH\obj\Release\HxH.Contact.resources
+D:\HxH\HxH\HxH\obj\Release\HxH.Hotels.resources
+D:\HxH\HxH\HxH\obj\Release\HxH.Info.resources
+D:\HxH\HxH\HxH\obj\Release\HxH.Login.resources
+D:\HxH\HxH\HxH\obj\Release\HxH.Number1.resources
+D:\HxH\HxH\HxH\obj\Release\HxH.Number2.resources
+D:\HxH\HxH\HxH\obj\Release\HxH.Number3.resources
+D:\HxH\HxH\HxH\obj\Release\HxH.Registration.resources
+D:\HxH\HxH\HxH\obj\Release\HxH.Properties.Resources.resources
+D:\HxH\HxH\HxH\obj\Release\HxH.Spasibo.resources
+D:\HxH\HxH\HxH\obj\Release\HxH.csproj.GenerateResource.cache
+D:\HxH\HxH\HxH\obj\Release\HxH.csproj.CoreCompileInputs.cache
